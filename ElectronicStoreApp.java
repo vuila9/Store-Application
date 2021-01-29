@@ -1,5 +1,3 @@
-package comp1406a3;
-
 /* Designed by
  * Name: John Nguyen
  * ID: 101 162 387
