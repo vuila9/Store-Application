@@ -1,2 +1,4 @@
 # Store-Application
 This is a small project in COMP1406-W20
+
+Please do not copy this code as I do not permit it :)
