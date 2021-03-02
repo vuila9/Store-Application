@@ -52,10 +52,11 @@ You are a third-quarter way done, now we will do the last set up
     ![image](https://user-images.githubusercontent.com/62405278/109596267-e4386c80-7ae3-11eb-80c0-647e3d501447.png)
     
 - Then, go to "Project" tab on that same window, if your version is up-to-date then there's nothing else needs to be done, just for reference, here is what mine looks like:
+
   ![image](https://user-images.githubusercontent.com/62405278/109596717-cae3f000-7ae4-11eb-8855-3cf80424a807.png)
   
 - Then, go to "SDKs" just under the "Platform Settings", you should have the number of version folder of the SDK you installed at the begining (i.e version 15.0.1 will be 15, version 16.xx.xx will be 16)
-  + You can ignore the open-jdk-1x
+  + You can ignore the open-jdk-15
   
   ![image](https://user-images.githubusercontent.com/62405278/109596863-0da5c800-7ae5-11eb-80fc-c98f0b20d611.png)
 
