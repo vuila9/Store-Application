@@ -4,13 +4,13 @@ This is a small project in COMP1406-W20
 Please do not copy this code as I do not permit it :)
 These codes are for viewed only
 
-Please read the Set Up JavaFX Instructions before running the codes.
+Please read the Set Up JavaFX Instructions before running the codes: https://github.com/vuila9/Store-Application/blob/main/Set%20Up%20Instruction.md
 
 I will assume you have your IntelliJ IDEA set up and ready to run the codes.
 
 In case you unsuccessfully set up and run the codes, here is what you can expect to see what the codes can do:
 
-When you compile the codes, the Windows will pop up
+When you compile the codes, this Windows will pop up
 
 ![image](https://user-images.githubusercontent.com/62405278/109598332-14cdd580-7ae7-11eb-8e67-333190cf1cad.png)
 
