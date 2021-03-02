@@ -24,10 +24,18 @@ Again, I am using IntelliJ IDEA as my platform, free version works just fine. Be
   + You should name it as: PATH_TO_FX (or whatever name that is clear, because you will use it later)  
   + After that, in the "value" section, you will browse to the folder you move previously "javafx-sdk-15.0.", you open it and select the folder called "lib"
   + You should have something like this: ![image](https://user-images.githubusercontent.com/62405278/109595017-b7835580-7ae1-11eb-9482-420d953b80c6.png)
-
  
 - Now, you will copy all the source files in my repo, notice if you are organizing it into a package, be sure to include the line "package name" on top of every source files.
+- At this point, you should try to run the program, it will gave some errors, just ignore it.
 - Then, you will locate the at this position, click on it and select "Edit Configuration" ![image](https://user-images.githubusercontent.com/62405278/109594796-67a48e80-7ae1-11eb-811d-167ea7ff266a.png)
+- Click on "Modify options", be sure to select the "Add VM options" ![image](https://user-images.githubusercontent.com/62405278/109595135-ed283e80-7ae1-11eb-8413-2c94090f2765.png)
+- In the "VM options" box, click on the expand arrows: ![image](https://user-images.githubusercontent.com/62405278/109595209-1052ee00-7ae2-11eb-925c-88a435a1b74f.png)
+- Type exactly like this image: ![image](https://user-images.githubusercontent.com/62405278/109595367-5f008800-7ae2-11eb-9f70-68477b1920e6.png)
+  + Use the name of the path you gave previously for the line ${your_Path_name}
+  + For simplicity sake, please don't press 'enter' when you finish typing those texts, just click on the collapse arrows when you done
+
+You are a third-quarter way done, now we will do the last set up
+- 
 
 
 
