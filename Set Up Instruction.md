@@ -5,6 +5,7 @@ This project requires JavaFX so if you dont have it set up, downloading this cod
 Here is step by steps to have it set up before you can run this.
 
 First and foremost, I am using IntelliJ IDEA as my main platform for java, I have not tried other platform like Eclipse or Microsoft VC so this instruction might not work for them. 
+
 The OS I am using is Windows 10 Pro.
 
 So, let us begin:
