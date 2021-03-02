@@ -36,6 +36,7 @@ Again, I am using IntelliJ IDEA as my platform, free version works just fine. Be
   ![image](https://user-images.githubusercontent.com/62405278/109595135-ed283e80-7ae1-11eb-8413-2c94090f2765.png)
   
 - In the "VM options" box, click on the expand arrows: 
+
   ![image](https://user-images.githubusercontent.com/62405278/109595209-1052ee00-7ae2-11eb-925c-88a435a1b74f.png)
   
 - Type exactly like this image: 
