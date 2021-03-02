@@ -32,7 +32,10 @@ Again, I am using IntelliJ IDEA as my platform, free version works just fine. Be
   ![image](https://user-images.githubusercontent.com/62405278/109594796-67a48e80-7ae1-11eb-811d-167ea7ff266a.png)
 - Click on "Modify options", be sure to select the "Add VM options" 
   ![image](https://user-images.githubusercontent.com/62405278/109595135-ed283e80-7ae1-11eb-8413-2c94090f2765.png)
-- In the "VM options" box, click on the expand arrows: ![image](https://user-images.githubusercontent.com/62405278/109595209-1052ee00-7ae2-11eb-925c-88a435a1b74f.png)
+  
+- In the "VM options" box, click on the expand arrows: 
+  ![image](https://user-images.githubusercontent.com/62405278/109595209-1052ee00-7ae2-11eb-925c-88a435a1b74f.png)
+  
 - Type exactly like this image: 
   + Use the name of the path you gave previously for the line ${your_Path_name}
   + For simplicity sake, please don't press 'enter' when you finish typing those texts, just click on the collapse arrows when you done
