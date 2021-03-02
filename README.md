@@ -31,6 +31,9 @@ When you compile the codes, the Windows will pop up
 
 Here are more image of the program:
 
+![image](https://user-images.githubusercontent.com/62405278/109599530-5b243400-7ae9-11eb-9503-6f997ef33c9c.png)
+
+![image](https://user-images.githubusercontent.com/62405278/109599572-6a0ae680-7ae9-11eb-9b96-a12604c97f79.png)
 
 
 
