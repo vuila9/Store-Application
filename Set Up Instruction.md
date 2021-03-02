@@ -21,13 +21,13 @@ Again, I am using IntelliJ IDEA as my platform, free version works just fine. Be
     ![image](https://user-images.githubusercontent.com/62405278/109594455-d2a19580-7ae0-11eb-80bc-d987b2cc1b8c.png)
 - Open IntelliJ, click on File, go to Setting, click on "Path Variables", click on the little "+" on botton left corner to add a path
   + You should name it as: PATH_TO_FX (or whatever name that is clear, because you will use it later)  
-  + After that, in the "value" section, you will browse to the folder you moved previously "javafx-sdk-15.0.", you open it and select the folder called "lib"
+  + After that, in the "value" section, you will browse to the folder you moved previously "javafx-sdk-15.0.", open it and select the folder called "lib"
   + You should have something like this: 
     ![image](https://user-images.githubusercontent.com/62405278/109595017-b7835580-7ae1-11eb-9482-420d953b80c6.png)
  
-- Now, you will copy all the source files in my repo, notice if you are organizing it into a package, be sure to include the line "package name" on top of every source files.
-- At this point, you should try to run the program, it will gave some errors, just ignore it.
-- Then, you will locate the at this position, click on it and select "Edit Configuration" 
+- Now, copy all the source files in my repo (except for the 2 .md files, those are instructions), notice if you are organizing it into a package, be sure to include the line "package name" on top of every source files.
+- At this point, you should try to run the program, it will give some errors, just ignore it.
+- Then, look at top right corner, click on the box and select "Edit Configuration" 
   ![image](https://user-images.githubusercontent.com/62405278/109594796-67a48e80-7ae1-11eb-811d-167ea7ff266a.png)
   
 - Click on "Modify options", be sure to select the "Add VM options" 
