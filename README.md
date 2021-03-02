@@ -30,17 +30,24 @@ Again, I am using IntelliJ IDEA as my platform, free version works just fine. Be
 - At this point, you should try to run the program, it will gave some errors, just ignore it.
 - Then, you will locate the at this position, click on it and select "Edit Configuration" 
   ![image](https://user-images.githubusercontent.com/62405278/109594796-67a48e80-7ae1-11eb-811d-167ea7ff266a.png)
-- Click on "Modify options", be sure to select the "Add VM options" ![image](https://user-images.githubusercontent.com/62405278/109595135-ed283e80-7ae1-11eb-8413-2c94090f2765.png)
+- Click on "Modify options", be sure to select the "Add VM options" 
+  ![image](https://user-images.githubusercontent.com/62405278/109595135-ed283e80-7ae1-11eb-8413-2c94090f2765.png)
 - In the "VM options" box, click on the expand arrows: ![image](https://user-images.githubusercontent.com/62405278/109595209-1052ee00-7ae2-11eb-925c-88a435a1b74f.png)
-- Type exactly like this image: ![image](https://user-images.githubusercontent.com/62405278/109595367-5f008800-7ae2-11eb-9f70-68477b1920e6.png)
+- Type exactly like this image: 
   + Use the name of the path you gave previously for the line ${your_Path_name}
   + For simplicity sake, please don't press 'enter' when you finish typing those texts, just click on the collapse arrows when you done
+  ![image](https://user-images.githubusercontent.com/62405278/109595367-5f008800-7ae2-11eb-9f70-68477b1920e6.png)
 
 You are a third-quarter way done, now we will do the last set up
 - Click on File, go to Project Structure (or simply type Ctrl + Alt + Shift + S)
 - Go to "Libraries" tab, click on the "+", click on "Java", then browse to the folder "javafx-sdk-15.0.1" that you install at the beginning, open the folder and select "lib"  then press Ok.
   + You should have something like this:
     ![image](https://user-images.githubusercontent.com/62405278/109596267-e4386c80-7ae3-11eb-80c0-647e3d501447.png)
+- Then, go to "Project" tab on that same window, if your version is up-to-date then there's nothing else needs to be done, just for reference, here is what mine looks like:
+  ![image](https://user-images.githubusercontent.com/62405278/109596717-cae3f000-7ae4-11eb-8855-3cf80424a807.png)
+- Then, go to "SDKs" just under the "Platform Settings", you should have the number of version folder of the SDK you installed at the begining (i.e version 15.0.1 will be 15, version 16.xx.xx will be 16)
+  + You can ignore the open-jdk-1x
+  ![image](https://user-images.githubusercontent.com/62405278/109596863-0da5c800-7ae5-11eb-80fc-c98f0b20d611.png)
 
   
 
