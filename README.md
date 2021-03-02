@@ -60,7 +60,7 @@ You are a third-quarter way done, now we will do the last set up
   
   ![image](https://user-images.githubusercontent.com/62405278/109596863-0da5c800-7ae5-11eb-80fc-c98f0b20d611.png)
 
-  
+  And that is it!
 
 
 
