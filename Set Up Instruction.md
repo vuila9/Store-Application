@@ -1,5 +1,7 @@
 # Set Up JavaFX Instruction Step-by-step
 
+*Since English is not my first language, please ignore any minor grammar error or poor word choice*
+
 This project requires JavaFX so if you dont have it set up, downloading this codes and run would simply dont work.
 
 Here is step by steps to have it set up before you can run this.
