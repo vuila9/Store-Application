@@ -21,7 +21,7 @@ Again, I am using IntelliJ IDEA as my platform, free version works just fine. Be
     ![image](https://user-images.githubusercontent.com/62405278/109594455-d2a19580-7ae0-11eb-80bc-d987b2cc1b8c.png)
 - Open IntelliJ, click on File, go to Setting, click on "Path Variables", click on the little "+" on botton left corner to add a path
   + You should name it as: PATH_TO_FX (or whatever name that is clear, because you will use it later)  
-  + After that, in the "value" section, you will browse to the folder you move previously "javafx-sdk-15.0.", you open it and select the folder called "lib"
+  + After that, in the "value" section, you will browse to the folder you moved previously "javafx-sdk-15.0.", you open it and select the folder called "lib"
   + You should have something like this: 
     ![image](https://user-images.githubusercontent.com/62405278/109595017-b7835580-7ae1-11eb-9482-420d953b80c6.png)
  
