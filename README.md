@@ -29,11 +29,13 @@ When you compile the codes, the Windows will pop up
   + After "Complete Sale" button is pressed, all buttons are back to their default state.
   + The "Remove" button is disabled until an item is selected from Current Cart
 
-Here are more image of the program:
+Here is a video of me trying the program, for your better understanding: 
 
-![image](https://user-images.githubusercontent.com/62405278/109599530-5b243400-7ae9-11eb-9503-6f997ef33c9c.png)
+https://youtu.be/PFTyaiEfy5M
 
-![image](https://user-images.githubusercontent.com/62405278/109599572-6a0ae680-7ae9-11eb-9b96-a12604c97f79.png)
+#Thanks for reading!
+
+
 
 
 
