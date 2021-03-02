@@ -30,7 +30,9 @@ Again, I am using IntelliJ IDEA as my platform, free version works just fine. Be
 - At this point, you should try to run the program, it will gave some errors, just ignore it.
 - Then, you will locate the at this position, click on it and select "Edit Configuration" 
   ![image](https://user-images.githubusercontent.com/62405278/109594796-67a48e80-7ae1-11eb-811d-167ea7ff266a.png)
+  
 - Click on "Modify options", be sure to select the "Add VM options" 
+ 
   ![image](https://user-images.githubusercontent.com/62405278/109595135-ed283e80-7ae1-11eb-8413-2c94090f2765.png)
   
 - In the "VM options" box, click on the expand arrows: 
