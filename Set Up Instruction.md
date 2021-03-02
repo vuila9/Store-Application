@@ -14,8 +14,7 @@ Again, I am using IntelliJ IDEA as my platform, free version works just fine. Be
 
 - First of all, go to this website: https://gluonhq.com/products/javafx/, and download the latest version of Java SDK (as of this time, it's 15.0.1)
 - Extract the zip file, you will have a folder named like this: "javafx-sdk-15.0.1"
-  + Move the file to a location that is convenient for you, in my case, I put it directly inside where I install my IntelliJ: 
-    C:\Program Files\JetBrains\
+  + Move the file to a location that is convenient for you, in my case, I put it directly inside where I install my IntelliJ:                                                       C:\Program Files\JetBrains\
     ![image](https://user-images.githubusercontent.com/62405278/109594455-d2a19580-7ae0-11eb-80bc-d987b2cc1b8c.png)
 - Open IntelliJ, click on File, go to Setting, click on "Path Variables", click on the little "+" on botton left corner to add a path
   + You should name it as: PATH_TO_FX (or whatever name that is clear, because you will use it later)  
