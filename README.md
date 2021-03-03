@@ -33,7 +33,7 @@ Here is a video of me trying the program, for your better understanding:
 
 https://youtu.be/PFTyaiEfy5M
 
-#Thanks for reading!
+# Thanks for reading!
 
 
 
